@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Uber ride performance, boo
 
 ## Dashboard Preview
 
-![Uber Analytics Dashboard]("Images/uber-dashboard-page-1.png")
+![Uber Analytics Dashboard]("uber-dashboard-page-1.png")
 
 > **Note:** This is the first page of the dashboard. Two additional pages are currently under development.
 
